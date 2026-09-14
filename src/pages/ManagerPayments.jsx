@@ -542,3 +542,4 @@ const handleDeletePayment = async () => {
 }
 
 export default ManagerPayments;
+//
